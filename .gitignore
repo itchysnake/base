@@ -4,6 +4,7 @@ __pycache__
 .DS_Store
 *_test.py
 config.*
+*.yaml
 
 # Folders
 venv/
