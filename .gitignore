@@ -5,7 +5,9 @@ __pycache__
 *_test.py
 config.*
 *.yaml
+.gcloudignore
 
 # Folders
 venv/
-storage/
+venv_dist/
+dist/
