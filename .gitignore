@@ -1,3 +1,7 @@
+# Distribution
+build/
+dist/
+
 # Byte-compiled / optimized / DLL files
 __pycache__
 *.py[cod]
@@ -19,6 +23,8 @@ dvenv/
 .env
 
 # Distribution / Packaging
+setup.cfg
+setup.py
 dist/
 sdist/
 build/
