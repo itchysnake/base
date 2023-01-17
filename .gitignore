@@ -23,8 +23,6 @@ dvenv/
 .env
 
 # Distribution / Packaging
-setup.cfg
-setup.py
 dist/
 sdist/
 build/
