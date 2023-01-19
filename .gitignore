@@ -19,7 +19,7 @@ config.*
 
 # Environments
 venv/
-dvenv/
+denv/
 .env
 
 # Distribution / Packaging
